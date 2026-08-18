@@ -1,6 +1,6 @@
 # Student Examination Result Checker
 
-print("=== UNIVERSITY RESULT CHECKER ===")
+print(" UNIVERSITY RESULT CHECKER")
 
 marks = float(input("gali your exam marks (0 - 100): "))
 
